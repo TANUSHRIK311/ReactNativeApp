@@ -88,7 +88,7 @@ export default function TabTwoScreen() {
         {Platform.select({
           ios: (
             <ThemedText>
-              The <ThemedText type="defaultSemiBold">components/ParallaxScrollView.tsx</ThemedText>{' '}
+              The <ThemedText type="defaultSemiBold">Components/ParallaxScrollView.tsx</ThemedText>{' '}
               component provides a parallax effect for the header images.
             </ThemedText>
           ),
