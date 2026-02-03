@@ -83,7 +83,7 @@ export default function TabTwoScreen() {
           <ThemedText type="defaultSemiBold" style={{ fontFamily: Fonts.mono }}>
             react-native-reanimated
           </ThemedText>{' '}
-          library to create a waving hand animation.
+          Library to create a waving hand animation.
         </ThemedText>
         {Platform.select({
           ios: (
